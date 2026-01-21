@@ -45,7 +45,7 @@ O dashboard foi desenvolvido com foco em clareza e leitura executiva, priorizand
 
 
 
-!\[Dashboard](images/dashboard)
+!\[Dashboard](https://raw.githubusercontent.com/lnrosa/analise-vendas-ecommerce/main/images/dashboard.png)
 
 
 
