@@ -1,5 +1,9 @@
 # Análise de Vendas — E-commerce
 
+
+
+
+
 ## 📌 Contexto
 
 Este projeto tem como objetivo analisar o desempenho de vendas de um e-commerce brasileiro, utilizando dados públicos da Olist, com foco em indicadores que apoiem a tomada de decisão.
@@ -41,7 +45,13 @@ O dashboard foi desenvolvido com foco em clareza e leitura executiva, priorizand
 
 
 
-!\[Dashboard](images/https://github.com/lnrosa/analise-vendas-ecommerce/blob/main/images/dashboard.png.png)
+!\[Dashboard](images/dashboard)
+
+
+
+
+
+
 
 
 
