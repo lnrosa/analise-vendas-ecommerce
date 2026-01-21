@@ -6,7 +6,7 @@ Este projeto tem como objetivo analisar o desempenho de vendas de um e-commerce 
 
 ## 📊 Dataset
 
-Brazilian E-Commerce Public Dataset by Olist (Kaggle) 
+Brazilian E-Commerce Public Dataset by Olist (Kaggle)
 Principais tabelas utilizadas:
 
 * Orders
@@ -41,7 +41,7 @@ O dashboard foi desenvolvido com foco em clareza e leitura executiva, priorizand
 
 
 
-!\[Dashboard](images/dashboard.png)
+!\[Dashboard](images/https://github.com/lnrosa/analise-vendas-ecommerce/blob/main/images/dashboard.png.png)
 
 
 
